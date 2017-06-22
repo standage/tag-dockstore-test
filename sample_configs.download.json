@@ -1,0 +1,6 @@
+{
+    "gff3": {
+        "class": "File",
+        "path": "ftp://ftp.ncbi.nlm.nih.gov/genomes/refseq/archaea/Methanobrevibacter_curvatus/all_assembly_versions/GCF_001639295.1_ASM163929v1/GCF_001639295.1_ASM163929v1_genomic.gff.gz"
+    }
+}
